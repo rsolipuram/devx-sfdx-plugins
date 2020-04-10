@@ -1,5 +1,5 @@
 {
-  "name": "raghav-sfdx-plugin",
+  "name": "devx-sfdx-plugin",
   "description": "sfdx extensions",
   "version": "0.0.0",
   "author": "rsolipuram",
@@ -8,12 +8,19 @@
     "@oclif/command": "^1",
     "@oclif/config": "^1",
     "@oclif/errors": "^1",
+    "@rauschma/stringio": "^1.4.0",
     "@salesforce/command": "^1.4.1",
     "@salesforce/core": "^1.3.2",
     "@salesforce/ts-types": "^1.1.4",
+    "chalk": "^2.4.2",
     "child-process-promise": "^2.2.1",
+    "hook-std": "^2.0.0",
+    "intercept-stdout": "^0.1.2",
     "lodash": "^4.17.11",
     "open": "^6.3.0",
+    "ora": "^3.4.0",
+    "progress": "^2.0.3",
+    "salesforce-alm": "^46.3.0",
     "tslib": "^1"
   },
   "devDependencies": {

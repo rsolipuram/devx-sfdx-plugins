@@ -46,7 +46,7 @@ jobs:
 
 workflows:
   version: 2
-  "raghav-sfdx-plugin":
+  "devx-sfdx-plugin":
     jobs:
       - node-latest
       - node-8

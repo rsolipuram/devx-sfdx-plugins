@@ -1,16 +1,16 @@
-raghav-sfdx-plugin
+devx-sfdx-plugin
 ==================
 
 
 
-[![Version](https://img.shields.io/npm/v/raghav-sfdx-plugin.svg)](https://npmjs.org/package/raghav-sfdx-plugin)
-[![CircleCI](https://circleci.com/gh/Plugins/raghav-sfdx-plugin/tree/master.svg?style=shield)](https://circleci.com/gh/Plugins/raghav-sfdx-plugin/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/Plugins/raghav-sfdx-plugin?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/raghav-sfdx-plugin/branch/master)
-[![Codecov](https://codecov.io/gh/Plugins/raghav-sfdx-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/Plugins/raghav-sfdx-plugin)
-[![Greenkeeper](https://badges.greenkeeper.io/Plugins/raghav-sfdx-plugin.svg)](https://greenkeeper.io/)
-[![Known Vulnerabilities](https://snyk.io/test/github/Plugins/raghav-sfdx-plugin/badge.svg)](https://snyk.io/test/github/Plugins/raghav-sfdx-plugin)
-[![Downloads/week](https://img.shields.io/npm/dw/raghav-sfdx-plugin.svg)](https://npmjs.org/package/raghav-sfdx-plugin)
-[![License](https://img.shields.io/npm/l/raghav-sfdx-plugin.svg)](https://github.com/Plugins/raghav-sfdx-plugin/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/devx-sfdx-plugin.svg)](https://npmjs.org/package/devx-sfdx-plugin)
+[![CircleCI](https://circleci.com/gh/Plugins/devx-sfdx-plugin/tree/master.svg?style=shield)](https://circleci.com/gh/Plugins/devx-sfdx-plugin/tree/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/Plugins/devx-sfdx-plugin?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/devx-sfdx-plugin/branch/master)
+[![Codecov](https://codecov.io/gh/Plugins/devx-sfdx-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/Plugins/devx-sfdx-plugin)
+[![Greenkeeper](https://badges.greenkeeper.io/Plugins/devx-sfdx-plugin.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/Plugins/devx-sfdx-plugin/badge.svg)](https://snyk.io/test/github/Plugins/devx-sfdx-plugin)
+[![Downloads/week](https://img.shields.io/npm/dw/devx-sfdx-plugin.svg)](https://npmjs.org/package/devx-sfdx-plugin)
+[![License](https://img.shields.io/npm/l/devx-sfdx-plugin.svg)](https://github.com/Plugins/devx-sfdx-plugin/blob/master/package.json)
 
 <!-- toc -->
 * [Debugging your plugin](#debugging-your-plugin)
@@ -18,11 +18,11 @@ raghav-sfdx-plugin
 <!-- install -->
 <!-- usage -->
 ```sh-session
-$ npm install -g raghav-sfdx-plugin
+$ npm install -g devx-sfdx-plugin
 $ sfdx COMMAND
 running command...
 $ sfdx (-v|--version|version)
-raghav-sfdx-plugin/0.0.0 darwin-x64 node-v10.15.1
+devx-sfdx-plugin/0.0.0 darwin-x64 node-v10.15.1
 $ sfdx --help [COMMAND]
 USAGE
   $ sfdx COMMAND
@@ -68,7 +68,7 @@ EXAMPLES
      Hello myname! This is org: MyOrg and I will be around until Tue Mar 20 2018!
 ```
 
-_See code: [src/commands/hello/org.ts](https://github.com/Plugins/raghav-sfdx-plugin/blob/v0.0.0/src/commands/hello/org.ts)_
+_See code: [src/commands/hello/org.ts](https://github.com/Plugins/devx-sfdx-plugin/blob/v0.0.0/src/commands/hello/org.ts)_
 <!-- commandsstop -->
 <!-- debugging-your-plugin -->
 # Debugging your plugin
