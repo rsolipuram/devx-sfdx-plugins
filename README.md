@@ -3,7 +3,6 @@ devx-sfdx-plugin
 
 
 <!-- toc -->
-* [Debugging your plugin](#debugging-your-plugin)
 <!-- tocstop -->
 <!-- install -->
 <!-- usage -->
@@ -20,7 +19,7 @@ USAGE
 ```
 <!-- usagestop -->
 <!-- commands -->
-Documentation pending
+# Commands
 <!-- commandsstop -->
 <!-- debugging-your-plugin -->
 # Debugging your plugin
