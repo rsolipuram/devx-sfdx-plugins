@@ -16,7 +16,7 @@
     "child-process-promise": "^2.2.1",
     "hook-std": "^2.0.0",
     "intercept-stdout": "^0.1.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "open": "^6.3.0",
     "ora": "^3.4.0",
     "progress": "^2.0.3",
